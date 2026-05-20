@@ -1,0 +1,1 @@
+//não foi usado nenhuma função ou cálculo relacionado a partidas, então a estrutura é apenas para armazenar os dados brutos de uma partida
